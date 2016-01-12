@@ -19,6 +19,7 @@ IN THE LOVING MEMORY OF
 
 * edoardo
 * Tech
+* YafJSBot
 
 nobody'll miss you
 cuz you're faggots
