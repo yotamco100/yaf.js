@@ -9,8 +9,17 @@ Other possibles names (only cool projects got cool names like those)
 * YAF App Framework(TM)
 * Yet Another Faggot
 
-
 License
 ===
 
 Please check [LICENSE](https://github.com/s0r00t/yaf.js/blob/master/LICENSE) for more information.
+
+IN THE LOVING MEMORY OF
+===
+
+* edoardo
+* Tech
+
+nobody'll miss you
+cuz you're faggots
+also #dogecoin over freenode
