@@ -1,0 +1,25 @@
+{
+  "name": "yaf.js",
+  "version": "1.0.0",
+  "description": "Yet Another Framework.JS",
+  "main": "yaf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0r00t/yaf.js.git"
+  },
+  "keywords": [
+    "frank"
+  ],
+  "author": "s0r00t",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/s0r00t/yaf.js/issues"
+  },
+  "homepage": "https://github.com/s0r00t/yaf.js#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
