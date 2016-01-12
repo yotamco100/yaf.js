@@ -1,8 +1,6 @@
-yaf.js -- Yet Another Framework.JS
+yaf.js -- Yet Another Framework.JS (not really)
 ===
-
-**yaf.js** is a professionally curated JS framework to replace soon-to-be deprecated JS frameworks.
-![frainfreeze is a faggot](https://i.imgur.com/92XRHer.jpg "fap")
+You see Ivan, we first write in ASM then we port.
 
 License
 ===
