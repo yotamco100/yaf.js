@@ -8,19 +8,22 @@ Other possibles names (only cool projects got cool names like those)
 ===
 * YAF App Framework(TM)
 * Yet Another Faggot
+* YOLO App Fuckboi
+* YOLO Ass Fuckboi
 
 License
 ===
 
 Please check [LICENSE](https://github.com/s0r00t/yaf.js/blob/master/LICENSE) for more information.
 
-IN THE LOVING MEMORY OF
+IN LOVING MEMORY OF
 ===
 
 * edoardo
 * Tech
+* s0r00t
 * YafJSBot
 
-nobody'll miss you
-cuz you're faggots
+We won't miss you
+cuz you're banned, faggots
 also #dogecoin over freenode
